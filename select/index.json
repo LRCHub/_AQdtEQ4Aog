@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lying from You",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-19T10:05:19.853901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lying From You",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Lying_From_You_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirt Off Your Shoulder / Lying From You (MTV Ultimate Mash-Ups)",
+      "artist": "JAY Z feat. LINKIN PARK",
+      "has_synced": false,
+      "path": "select/02_Dirt_Off_Your_Shoulder___Lying_From_You_(MTV_Ultimate_Mash-Ups)_JAY_Z_feat._LINKIN_PARK.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirt Off Your Shoulder / Lying from You",
+      "artist": "Jay-Z",
+      "has_synced": true,
+      "path": "select/03_Dirt_Off_Your_Shoulder___Lying_from_You_Jay-Z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lying From You",
+      "artist": "Dirt Off Your Shoulder",
+      "has_synced": true,
+      "path": "select/04_Lying_From_You_Dirt_Off_Your_Shoulder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lying From You - Live from New York, 2008",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/05_Lying_From_You_-_Live_from_New_York,_2008_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lying From You - Live LP Underground Tour 2003",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Lying_From_You_-_Live_LP_Underground_Tour_2003_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lying from You - Live",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/07_Lying_from_You_-_Live_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lying From You [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Lying_From_You_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lying From You [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Lying_From_You_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lying from You (Live)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_Lying_from_You_(Live)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lying from You (Live LP Underground Tour 2003)",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/11_Lying_from_You_(Live_LP_Underground_Tour_2003)_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirt Off Your Shoulder / Lying From You",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Dirt_Off_Your_Shoulder___Lying_From_You_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirt Off Your Shoulder/Lying from You",
+      "artist": "Jay-Z/Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Dirt_Off_Your_Shoulder_Lying_from_You_Jay-Z_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lying From You",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Lying_From_You_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirt off Your Shoulder \u0000 Lying From You",
+      "artist": "JAY-Z/Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Dirt_off_Your_Shoulder_\u0000_Lying_From_You_JAY-Z_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lying from You",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/16_Lying_from_You_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lying from You - Live",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_Lying_from_You_-_Live_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lying From You",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Lying_From_You_Linkin_Park.txt"
+    }
+  ]
+}
